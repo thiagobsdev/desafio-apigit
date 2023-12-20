@@ -1,0 +1,25 @@
+.d-homePage {
+  margin-left: 41px;
+  margin-top: 27px;
+}
+
+.d-tilePage {
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--d-color-font-black);
+}
+
+.d-subtitlePage {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin-bottom: 27px;
+  color: var(--d-color-font-home);
+}

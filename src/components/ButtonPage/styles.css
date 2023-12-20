@@ -1,0 +1,20 @@
+.d-divButton {
+  background-color: var(--d-color-font-result-head);
+  width: 101px;
+  height: 40px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+}
+
+.d-button-pages {
+  background-color: var(--d-color-font-result-head);
+  border: 0px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: var(--d-color-font-white);
+}

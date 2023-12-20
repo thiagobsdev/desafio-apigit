@@ -1,0 +1,20 @@
+.d-header {
+  background-color: var(--d-color-bg-header);
+  height: 62px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.d-title {
+  margin-left: 41px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--d-color-font-white);
+}
