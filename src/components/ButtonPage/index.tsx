@@ -1,9 +1,14 @@
 import "./styles.css";
 
-export default function ButtonPage() {
+type Props  = {
+  onClick: () => any ;
+}
+
+
+export default function ButtonPage ( {onClick}: Props)  {
   return (
     <div className="d-divButton">
-      <button className="d-button-pages" type="submit">Começar</button>
+      <button onClick={onClick} className="d-button-pages" type="submit">Começar</button>
     </div>
   );
 }

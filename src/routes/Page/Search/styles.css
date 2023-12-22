@@ -7,7 +7,6 @@
   text-align: left;
   color: var(--d-color-title-inputArea);
   padding-bottom: 12px;
-  
 }
 
 .d-inputText {
@@ -25,4 +24,20 @@
 
 .d-inputDivArea {
   margin-left: 31px;
+}
+
+.tagErro {
+  max-width: 1251px;
+  height: 100%;
+  border-radius: 8px;
+  max-width: 1251px;
+  font-family: Roboto;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--d-color-title-inputArea);
+  margin: 64px auto;
+  
 }
